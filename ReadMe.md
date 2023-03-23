@@ -39,7 +39,7 @@ Before running the script, ensure that you have the following:
 
    ![1679596485291](image/ReadMe/1679596485291.png)
 
-    Results of`Temperature` vs `Latitude` for Souther Hemisphere
+    Results of`Temperature` vs `Latitude` for Southern Hemisphere
 
 ```
 The r-value is: 0.469182
