@@ -37,7 +37,7 @@ Before running the script, ensure that you have the following:
    The r-value is: 0.742736
    ```
 
-   ![1679596485291](image/ReadMe/1679596485291.png)
+   ![1679596840012](image/ReadMe/1679596840012.png)
 
     Results of`Temperature` vs `Latitude` for Southern Hemisphere
 
