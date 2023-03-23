@@ -37,7 +37,10 @@ Before running the script, ensure that you have the following:
    The r-value is: 0.742736
    ```
 
-   ![1679596840012](image/ReadMe/1679596840012.png)
+ 
+   ![1679596485291](https://user-images.githubusercontent.com/76061893/227319837-5bff27bf-16f2-4d66-b27e-30a2b78930c6.png)
+
+ 
 
     Results of`Temperature` vs `Latitude` for Southern Hemisphere
 
@@ -45,7 +48,8 @@ Before running the script, ensure that you have the following:
 The r-value is: 0.469182
 ```
 
-    ![1679596840012](image/ReadMe/1679596840012.png)
+   ![1679596840012](https://user-images.githubusercontent.com/76061893/227319694-4f17dad6-5bbb-469b-b5cc-bea8488deffd.png)
+
 
 
 ## Results
